@@ -10,7 +10,7 @@
     "height": "51 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1678-09-14",
-    "imageURL": "https://example.com/niagara.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W001_Niagara.jpg",
     "image_source":"Von ErwinMeier - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=54981000",
     "type": "block",
     "measurements": [
@@ -52,7 +52,7 @@
     "height": "979 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1933-11-18",
-    "imageURL": "https://example.com/angelfalls.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W002_Angel.jpg",
     "image_source": "Von Inti - https://www.flickr.com/photos/inti/3102779830/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=5636442",
     "type": "plunge",
     "measurements": [
@@ -94,7 +94,7 @@
     "height": "108 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1855-11-17",
-    "imageURL": "https://example.com/victoria.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W003_Viktoria.jpg",
     "image_source": "Von Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73750632",
     "type": "block",
     "measurements": [
@@ -136,7 +136,7 @@
     "height": "60 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1811-07-02",
-    "imageURL": "https://example.com/seljalandsfoss.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W004_Seljalandsfoss.jpg",
     "image_source":"Von Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37346158",
     "type": "plunge",
     "measurements": [
@@ -178,7 +178,7 @@
     "height": "739 m",
     "year_round_water_flow": "no",
     "date_of_first_documentary": "1851-05-12",
-    "imageURL": "https://example.com/yosemite.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W005_Yosemite.jpg",
     "image_source":"Von Kevin Ingolfsland - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=1102549",
     "type": "tiered",
     "measurements": [
@@ -220,7 +220,7 @@
     "height": "82 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1541-01-31",
-    "imageURL": "https://example.com/iguazu.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W006_Iguazu.jpg",
     "image_source":"Von Matthias Bethke - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129198231",
     "type": "fan",
     "measurements": [
@@ -262,7 +262,7 @@
     "height": "60 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1800-06-01",
-    "imageURL": "https://example.com/skogafoss.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W007_Skogafoss.jpg",
     "image_source":"Von pjt56 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16619534",
     "type": "block",
     "measurements": [
@@ -304,7 +304,7 @@
     "height": "44 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1907-08-14",
-    "imageURL": "https://example.com/dettifoss.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W008_Dettifoss.jpg",
     "image_source":"Von Roger McLassus - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=361267",
     "type": "cascade",
     "measurements": [
@@ -346,7 +346,7 @@
     "height": "25 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1777-05-10",
-    "imageURL": "https://example.com/plitvice.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W009_Plitvice.jpg",
     "image_source":"Von Николай Максимович, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=53374961",
     "type": "cascade",
     "measurements": [
@@ -388,7 +388,7 @@
     "height": "32 m",
     "year_round_water_flow": "yes",
     "date_of_first_documentary": "1875-06-21",
-    "imageURL": "https://example.com/gullfoss.jpg",
+    "imageURL": "https://github.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/blob/5547b1b436e563f773db976c3b74ebe43e98e86c/assets/W010_Gullfoss.jpg",
     "image_source":"Von Claus Ableiter - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3652781",
     "type": "tiered",
     "measurements": [
