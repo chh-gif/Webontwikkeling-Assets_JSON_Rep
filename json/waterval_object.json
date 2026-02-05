@@ -1,0 +1,293 @@
+[
+    {
+        "id": "",
+        "id_waterfall":"",
+        "measure_day":"",
+        "measure_time":"",
+        "quarter":"",
+        "frozen":"",
+        "flow rate per second":""
+    }
+]
+
+[
+  {
+    "id": "M001-1",
+    "id_waterfall": "W001",
+    "measure_day": "2025-01-20",
+    "measure_time": "10:00",
+    "quarter": "Q1",
+    "frozen": "no",
+    "flow rate per second": "2800000"
+  },
+  {
+    "id": "M001-2",
+    "id_waterfall": "W001",
+    "measure_day": "2025-06-15",
+    "measure_time": "14:30",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "3200000"
+  },
+  {
+    "id": "M001-3",
+    "id_waterfall": "W001",
+    "measure_day": "2025-10-05",
+    "measure_time": "09:45",
+    "quarter": "Q4",
+    "frozen": "no",
+    "flow rate per second": "3000000"
+  },
+
+  {
+    "id": "M002-1",
+    "id_waterfall": "W002",
+    "measure_day": "2025-02-10",
+    "measure_time": "11:20",
+    "quarter": "Q1",
+    "frozen": "no",
+    "flow rate per second": "300"
+  },
+  {
+    "id": "M002-2",
+    "id_waterfall": "W002",
+    "measure_day": "2025-07-08",
+    "measure_time": "13:50",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "520"
+  },
+  {
+    "id": "M002-3",
+    "id_waterfall": "W002",
+    "measure_day": "2025-11-22",
+    "measure_time": "10:40",
+    "quarter": "Q4",
+    "frozen": "no",
+    "flow rate per second": "410"
+  },
+
+  {
+    "id": "M003-1",
+    "id_waterfall": "W003",
+    "measure_day": "2025-03-01",
+    "measure_time": "09:00",
+    "quarter": "Q1",
+    "frozen": "no",
+    "flow rate per second": "1500000"
+  },
+  {
+    "id": "M003-2",
+    "id_waterfall": "W003",
+    "measure_day": "2025-06-10",
+    "measure_time": "15:10",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "1200000"
+  },
+  {
+    "id": "M003-3",
+    "id_waterfall": "W003",
+    "measure_day": "2025-09-18",
+    "measure_time": "11:30",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "900000"
+  },
+
+  {
+    "id": "M004-1",
+    "id_waterfall": "W004",
+    "measure_day": "2025-01-25",
+    "measure_time": "10:30",
+    "quarter": "Q1",
+    "frozen": "yes",
+    "flow rate per second": "45"
+  },
+  {
+    "id": "M004-2",
+    "id_waterfall": "W004",
+    "measure_day": "2025-06-14",
+    "measure_time": "13:00",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "120"
+  },
+  {
+    "id": "M004-3",
+    "id_waterfall": "W004",
+    "measure_day": "2025-09-29",
+    "measure_time": "09:40",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "90"
+  },
+
+  {
+    "id": "M005-1",
+    "id_waterfall": "W005",
+    "measure_day": "2025-02-18",
+    "measure_time": "11:00",
+    "quarter": "Q1",
+    "frozen": "yes",
+    "flow rate per second": "30"
+  },
+  {
+    "id": "M005-2",
+    "id_waterfall": "W005",
+    "measure_day": "2025-05-20",
+    "measure_time": "14:20",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "250"
+  },
+  {
+    "id": "M005-3",
+    "id_waterfall": "W005",
+    "measure_day": "2025-10-02",
+    "measure_time": "10:10",
+    "quarter": "Q4",
+    "frozen": "no",
+    "flow rate per second": "40"
+  },
+
+  {
+    "id": "M006-1",
+    "id_waterfall": "W006",
+    "measure_day": "2025-03-12",
+    "measure_time": "09:30",
+    "quarter": "Q1",
+    "frozen": "no",
+    "flow rate per second": "1700000"
+  },
+  {
+    "id": "M006-2",
+    "id_waterfall": "W006",
+    "measure_day": "2025-07-01",
+    "measure_time": "12:50",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "1900000"
+  },
+  {
+    "id": "M006-3",
+    "id_waterfall": "W006",
+    "measure_day": "2025-11-10",
+    "measure_time": "11:15",
+    "quarter": "Q4",
+    "frozen": "no",
+    "flow rate per second": "1600000"
+  },
+
+  {
+    "id": "M007-1",
+    "id_waterfall": "W007",
+    "measure_day": "2025-02-05",
+    "measure_time": "10:20",
+    "quarter": "Q1",
+    "frozen": "yes",
+    "flow rate per second": "70"
+  },
+  {
+    "id": "M007-2",
+    "id_waterfall": "W007",
+    "measure_day": "2025-06-18",
+    "measure_time": "13:40",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "180"
+  },
+  {
+    "id": "M007-3",
+    "id_waterfall": "W007",
+    "measure_day": "2025-09-25",
+    "measure_time": "09:55",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "150"
+  },
+
+  {
+    "id": "M008-1",
+    "id_waterfall": "W008",
+    "measure_day": "2025-01-30",
+    "measure_time": "11:10",
+    "quarter": "Q1",
+    "frozen": "yes",
+    "flow rate per second": "200"
+  },
+  {
+    "id": "M008-2",
+    "id_waterfall": "W008",
+    "measure_day": "2025-06-22",
+    "measure_time": "14:00",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "500"
+  },
+  {
+    "id": "M008-3",
+    "id_waterfall": "W008",
+    "measure_day": "2025-09-30",
+    "measure_time": "10:50",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "420"
+  },
+
+  {
+    "id": "M009-1",
+    "id_waterfall": "W009",
+    "measure_day": "2025-03-03",
+    "measure_time": "09:30",
+    "quarter": "Q1",
+    "frozen": "no",
+    "flow rate per second": "90"
+  },
+  {
+    "id": "M009-2",
+    "id_waterfall": "W009",
+    "measure_day": "2025-07-12",
+    "measure_time": "12:20",
+    "quarter": "Q3",
+    "frozen": "no",
+    "flow rate per second": "140"
+  },
+  {
+    "id": "M009-3",
+    "id_waterfall": "W009",
+    "measure_day": "2025-11-16",
+    "measure_time": "10:00",
+    "quarter": "Q4",
+    "frozen": "no",
+    "flow rate per second": "110"
+  },
+
+  {
+    "id": "M010-1",
+    "id_waterfall": "W010",
+    "measure_day": "2025-02-12",
+    "measure_time": "11:40",
+    "quarter": "Q1",
+    "frozen": "yes",
+    "flow rate per second": "150"
+  },
+  {
+    "id": "M010-2",
+    "id_waterfall": "W010",
+    "measure_day": "2025-06-27",
+    "measure_time": "14:30",
+    "quarter": "Q2",
+    "frozen": "no",
+    "flow rate per second": "350"
+  },
+  {
+    "id": "M010-3",
+    "id_waterfall": "W010",
+    "measure_day": "2025-10-09",
+    "measure_time": "10:20",
+    "quarter": "Q4",
+    "frozen": "no",
+    "flow rate per second": "280"
+  }
+]

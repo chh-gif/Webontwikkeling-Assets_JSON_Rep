@@ -1,0 +1,424 @@
+
+    
+
+[
+  {
+    "waterfall_id": "W001",
+    "name": "Niagara Falls",
+    "land": "USA/Canada",
+    "description": "One of the most powerful and famous waterfalls in the world.",
+    "height": "51 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1678-09-14",
+    "imageURL": "https://example.com/niagara.jpg",
+    "image_source":"Von ErwinMeier - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=54981000",
+    "type": "block",
+    "measurements": [
+      {
+        "id": "M001-1",
+        "id_waterfall": "W001",
+        "measure_day": "2025-01-20",
+        "measure_time": "10:00",
+        "quarter": "Q1",
+        "frozen": "no",
+        "flow rate per second": "2800000"
+      },
+      {
+        "id": "M001-2",
+        "id_waterfall": "W001",
+        "measure_day": "2025-06-15",
+        "measure_time": "14:30",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "3200000"
+      },
+      {
+        "id": "M001-3",
+        "id_waterfall": "W001",
+        "measure_day": "2025-10-05",
+        "measure_time": "09:45",
+        "quarter": "Q4",
+        "frozen": "no",
+        "flow_rate_per_second": "3000000"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W002",
+    "name": "Angel Falls",
+    "land": "Venezuela",
+    "description": "The tallest uninterrupted waterfall in the world.",
+    "height": "979 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1933-11-18",
+    "imageURL": "https://example.com/angelfalls.jpg",
+    "image_source": "Von Inti - https://www.flickr.com/photos/inti/3102779830/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=5636442",
+    "type": "plunge",
+    "measurements": [
+      {
+        "id": "M002-1",
+        "id_waterfall": "W002",
+        "measure_day": "2025-02-10",
+        "measure_time": "11:20",
+        "quarter": "Q1",
+        "frozen": "no",
+        "flow_rate_per_second": "300"
+      },
+      {
+        "id": "M002-2",
+        "id_waterfall": "W002",
+        "measure_day": "2025-07-08",
+        "measure_time": "13:50",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "520"
+      },
+      {
+        "id": "M002-3",
+        "id_waterfall": "W002",
+        "measure_day": "2025-11-22",
+        "measure_time": "10:40",
+        "quarter": "Q4",
+        "frozen": "no",
+        "flow_rate_per_second": "410"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W003",
+    "name": "Victoria Falls",
+    "land": "Zambia/Zimbabwe",
+    "description": "One of the largest and most spectacular waterfalls on Earth.",
+    "height": "108 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1855-11-17",
+    "imageURL": "https://example.com/victoria.jpg",
+    "image_source": "Von Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73750632",
+    "type": "block",
+    "measurements": [
+      {
+        "id": "M003-1",
+        "id_waterfall": "W003",
+        "measure_day": "2025-03-01",
+        "measure_time": "09:00",
+        "quarter": "Q1",
+        "frozen": "no",
+        "flow_rate_per_second": "1500000"
+      },
+      {
+        "id": "M003-2",
+        "id_waterfall": "W003",
+        "measure_day": "2025-06-10",
+        "measure_time": "15:10",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "1200000"
+      },
+      {
+        "id": "M003-3",
+        "id_waterfall": "W003",
+        "measure_day": "2025-09-18",
+        "measure_time": "11:30",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "900000"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W004",
+    "name": "Seljalandsfoss",
+    "land": "Iceland",
+    "description": "A famous waterfall that visitors can walk behind.",
+    "height": "60 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1811-07-02",
+    "imageURL": "https://example.com/seljalandsfoss.jpg",
+    "image_source":"Von Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37346158",
+    "type": "plunge",
+    "measurements": [
+      {
+        "id": "M004-1",
+        "id_waterfall": "W004",
+        "measure_day": "2025-01-25",
+        "measure_time": "10:30",
+        "quarter": "Q1",
+        "frozen": "yes",
+        "flow_rate_per_second": "45"
+      },
+      {
+        "id": "M004-2",
+        "id_waterfall": "W004",
+        "measure_day": "2025-06-14",
+        "measure_time": "13:00",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "120"
+      },
+      {
+        "id": "M004-3",
+        "id_waterfall": "W004",
+        "measure_day": "2025-09-29",
+        "measure_time": "09:40",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "90"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W005",
+    "name": "Yosemite Falls",
+    "land": "USA",
+    "description": "One of the tallest waterfalls in North America.",
+    "height": "739 m",
+    "year_round_water_flow": "no",
+    "date_of_first_documentary": "1851-05-12",
+    "imageURL": "https://example.com/yosemite.jpg",
+    "image_source":"Von Kevin Ingolfsland - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=1102549",
+    "type": "tiered",
+    "measurements": [
+      {
+        "id": "M005-1",
+        "id_waterfall": "W005",
+        "measure_day": "2025-02-18",
+        "measure_time": "11:00",
+        "quarter": "Q1",
+        "frozen": "yes",
+        "flow_rate_per_second": "30"
+      },
+      {
+        "id": "M005-2",
+        "id_waterfall": "W005",
+        "measure_day": "2025-05-20",
+        "measure_time": "14:20",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "250"
+      },
+      {
+        "id": "M005-3",
+        "id_waterfall": "W005",
+        "measure_day": "2025-10-02",
+        "measure_time": "10:10",
+        "quarter": "Q4",
+        "frozen": "no",
+        "flow_rate_per_second": "40"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W006",
+    "name": "Iguazu Falls",
+    "land": "Argentina/Brazil",
+    "description": "A massive system of more than 250 waterfalls.",
+    "height": "82 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1541-01-31",
+    "imageURL": "https://example.com/iguazu.jpg",
+    "image_source":"Von Matthias Bethke - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129198231",
+    "type": "fan",
+    "measurements": [
+      {
+        "id": "M006-1",
+        "id_waterfall": "W006",
+        "measure_day": "2025-03-12",
+        "measure_time": "09:30",
+        "quarter": "Q1",
+        "frozen": "no",
+        "flow_rate_per_second": "1700000"
+      },
+      {
+        "id": "M006-2",
+        "id_waterfall": "W006",
+        "measure_day": "2025-07-01",
+        "measure_time": "12:50",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "1900000"
+      },
+      {
+        "id": "M006-3",
+        "id_waterfall": "W006",
+        "measure_day": "2025-11-10",
+        "measure_time": "11:15",
+        "quarter": "Q4",
+        "frozen": "no",
+        "flow_rate_per_second": "1600000"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W007",
+    "name": "Skógafoss",
+    "land": "Iceland",
+    "description": "A powerful waterfall known for frequent rainbows.",
+    "height": "60 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1800-06-01",
+    "imageURL": "https://example.com/skogafoss.jpg",
+    "image_source":"Von pjt56 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16619534",
+    "type": "block",
+    "measurements": [
+      {
+        "id": "M007-1",
+        "id_waterfall": "W007",
+        "measure_day": "2025-02-05",
+        "measure_time": "10:20",
+        "quarter": "Q1",
+        "frozen": "yes",
+        "flow_rate_per_second": "70"
+      },
+      {
+        "id": "M007-2",
+        "id_waterfall": "W007",
+        "measure_day": "2025-06-18",
+        "measure_time": "13:40",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "180"
+      },
+      {
+        "id": "M007-3",
+        "id_waterfall": "W007",
+        "measure_day": "2025-09-25",
+        "measure_time": "09:55",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "150"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W008",
+    "name": "Dettifoss",
+    "land": "Iceland",
+    "description": "Europe’s most powerful waterfall.",
+    "height": "44 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1907-08-14",
+    "imageURL": "https://example.com/dettifoss.jpg",
+    "image_source":"Von Roger McLassus - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=361267",
+    "type": "cascade",
+    "measurements": [
+      {
+        "id": "M008-1",
+        "id_waterfall": "W008",
+        "measure_day": "2025-01-30",
+        "measure_time": "11:10",
+        "quarter": "Q1",
+        "frozen": "yes",
+        "flow_rate_per_second": "200"
+      },
+      {
+        "id": "M008-2",
+        "id_waterfall": "W008",
+        "measure_day": "2025-06-22",
+        "measure_time": "14:00",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "500"
+      },
+      {
+        "id": "M008-3",
+        "id_waterfall": "W008",
+        "measure_day": "2025-09-30",
+        "measure_time": "10:50",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "420"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W009",
+    "name": "Plitvice Waterfalls",
+    "land": "Croatia",
+    "description": "A network of cascading waterfalls in Plitvice Lakes National Park.",
+    "height": "25 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1777-05-10",
+    "imageURL": "https://example.com/plitvice.jpg",
+    "image_source":"Von Николай Максимович, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=53374961",
+    "type": "cascade",
+    "measurements": [
+      {
+        "id": "M009-1",
+        "id_waterfall": "W009",
+        "measure_day": "2025-03-03",
+        "measure_time": "09:30",
+        "quarter": "Q1",
+        "frozen": "no",
+        "flow_rate_per_second": "90"
+      },
+      {
+        "id": "M009-2",
+        "id_waterfall": "W009",
+        "measure_day": "2025-07-12",
+        "measure_time": "12:20",
+        "quarter": "Q3",
+        "frozen": "no",
+        "flow_rate_per_second": "140"
+      },
+      {
+        "id": "M009-3",
+        "id_waterfall": "W009",
+        "measure_day": "2025-11-16",
+        "measure_time": "10:00",
+        "quarter": "Q4",
+        "frozen": "no",
+        "flow_rate_per_second": "110"
+      }
+    ]
+  },
+
+  {
+    "waterfall_id": "W010",
+    "name": "Gullfoss",
+    "land": "Iceland",
+    "description": "A dramatic two-tiered waterfall flowing into a rugged canyon.",
+    "height": "32 m",
+    "year_round_water_flow": "yes",
+    "date_of_first_documentary": "1875-06-21",
+    "imageURL": "https://example.com/gullfoss.jpg",
+    "image_source":"Von Claus Ableiter - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3652781",
+    "type": "tiered",
+    "measurements": [
+      {
+        "id": "M010-1",
+        "id_waterfall": "W010",
+        "measure_day": "2025-02-12",
+        "measure_time": "11:40",
+        "quarter": "Q1",
+        "frozen": "yes",
+        "flow_rate_per_second": "150"
+      },
+      {
+        "id": "M010-2",
+        "id_waterfall": "W010",
+        "measure_day": "2025-06-27",
+        "measure_time": "14:30",
+        "quarter": "Q2",
+        "frozen": "no",
+        "flow_rate_per_second": "350"
+      },
+      {
+        "id": "M010-3",
+        "id_waterfall": "W010",
+        "measure_day": "2025-10-09",
+        "measure_time": "10:20",
+        "quarter": "Q4",
+        "frozen": "no",
+        "flow_rate_per_second": "280"
+      }
+    ]
+  }
+]
