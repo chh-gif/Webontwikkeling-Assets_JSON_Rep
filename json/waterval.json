@@ -63,7 +63,7 @@
   },
 
   {
-    "waterfall_id": "W004",
+    "waterfallId": "W004",
     "name": "Seljalandsfoss",
     "country": "Iceland",
     "description": "A famous waterfall that visitors can walk behind.",
