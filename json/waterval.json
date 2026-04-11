@@ -107,11 +107,11 @@
     "name": "Iguazu Falls",
     "country": "Argentina/Brazil",
     "description": "A massive system of more than 250 waterfalls.",
-    "heightInM": 82 ,
+    "heightInM": 82,
     "yearRoundWaterFlow": true,
     "dateOfFirstDocumentary": "1541-01-31",
     "imageURL": "https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/main/assets/W006_Iguazu.jpg",
-    "imageSource":"Von Matthias Bethke - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129198231",
+    "imageSource":"Mayra Villas Boas Francisco ZamulkoAlt version WB, shadowns, noise, sharpening were altered by Own work, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
     "type": "fan",
      "climate": {
       "climateId": "K03",
