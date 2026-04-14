@@ -16,6 +16,7 @@
     "climate":  {
       "climateId": "K02",
       "name": "Temperate Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K02_mild.jpg",
       "annualAvgTemperatureCelsius": 12,
       "environment": "year-round precipitation, moderate humidity, deciduous and mixed forests",
       "freezePossible": false
@@ -36,6 +37,7 @@
      "climate": {
       "climateId": "K03",
       "name": "Tropical Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K03_tropic.jpg",
       "annualAvgTemperatureCelsius": 26,
       "environment": "high humidity, wet and dry seasons, rainforest or savanna vegetation",
       "freezePossible": false
@@ -56,6 +58,7 @@
      "climate": {
       "climateId":"K03",
       "name": "Tropical Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K03_tropic.jpg",
       "annualAvgTemperatureCelsius": 26,
       "environment": "high humidity, wet and dry seasons, rainforest or savanna vegetation",
       "freezePossible": false
@@ -76,6 +79,7 @@
     "climate": {
       "climateId": "K01",
       "name": "Subarctic Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K01_arctic.jpg",
       "annualAvgTemperatureCelsius": 2,
       "environment": "high rainfall and snowfall, strong glacial influence, tundra vegetation",
       "freezePossible": true
@@ -96,6 +100,7 @@
     "climate":   {
       "climateId": "K02",
       "name": "Temperate Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K02_mild.jpg",
       "annualAvgTemperatureCelsius": 12,
       "environment": "year-round precipitation, moderate humidity, deciduous and mixed forests",
       "freezePossible": false
@@ -116,6 +121,7 @@
      "climate": {
       "climateId": "K03",
       "name": "Tropical Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K03_tropic.jpg",
       "annualAvgTemperatureCelsius": 26,
       "environment": "high humidity, wet and dry seasons, rainforest or savanna vegetation",
       "freezePossible": false
@@ -136,6 +142,7 @@
     "climate": {
       "climateId": "K01",
       "name": "Subarctic Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K01_arctic.jpg",
       "annualAvgTemperatureCelsius": 2,
       "environment": "high rainfall and snowfall, strong glacial influence, tundra vegetation",
       "freezePossible": true
@@ -156,6 +163,7 @@
     "climate": {
       "climateId": "K01",
       "name": "Subarctic Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K01_arctic.jpg",
       "annualAvgTemperatureCelsius": 2,
       "environment": "high rainfall and snowfall, strong glacial influence, tundra vegetation",
       "freezePossible": true
@@ -176,6 +184,7 @@
     "climate":   {
       "climateId": "K02",
       "name": "Temperate Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K02_mild.jpg",
       "annualAvgTemperatureCelsius": 12,
       "environment": "year-round precipitation, moderate humidity, deciduous and mixed forests",
       "freezePossible": false
@@ -196,6 +205,7 @@
     "climate": {
       "climateId": "K01",
       "name": "Subarctic Climate",
+      "image":"https://raw.githubusercontent.com/chh-gif/Webontwikkeling-Assets_JSON_Rep/refs/heads/main/assets/K01_arctic.jpg",
       "annualAvgTemperatureCelsius": 2,
       "environment": "high rainfall and snowfall, strong glacial influence, tundra vegetation",
       "freezePossible": true
