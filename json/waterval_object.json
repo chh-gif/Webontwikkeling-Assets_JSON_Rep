@@ -3,6 +3,7 @@
     {
       "climateId": "K01",
       "name": "Subarctic Climate",
+      "image":"",
       "annualAvgTemperatureCelsius": 2,
       "environment": "high rainfall and snowfall, strong glacial influence, tundra vegetation",
       "freezePossible": true
@@ -10,6 +11,7 @@
     {
       "climateId": "K02",
       "name": "Temperate Climate",
+      "image":"",
       "annualAvgTemperatureCelsius": 12,
       "environment": "year-round precipitation, moderate humidity, deciduous and mixed forests",
       "freezePossible": false     
@@ -17,6 +19,7 @@
     {
       "climateId": "K03",
       "name": "Tropical Climate",
+      "image":"",
       "annualAvgTemperatureCelsius": 26,
       "environment": "high humidity, wet and dry seasons, rainforest or savanna vegetation",
       "freezePossible": false
